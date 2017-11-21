@@ -18,6 +18,7 @@ const twoSum = function(nums, target) {
     
 };
 
+/* Test Cases */
 console.log(twoSum([2, 11, 7, 15, 2], 9));
 console.log(twoSum([3,2,4], 6));
 console.log(twoSum([15, 1, 8], 9));
